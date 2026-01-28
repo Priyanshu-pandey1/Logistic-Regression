@@ -39,7 +39,6 @@ In medical diagnostics, **Recall** is often more important than Accuracy. This p
 | **F1-Score** | **0.892** |
 
 ### **Confusion Matrix Analysis:**
-```text
 [[25  4]  <- True Negatives | False Positives
  [ 3 29]] <- False Negatives | True Positives
 
