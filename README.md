@@ -43,12 +43,6 @@ In medical diagnostics, **Recall** is often more important than Accuracy. This p
 [[25  4]  <- True Negatives | False Positives
  [ 3 29]] <- False Negatives | True Positives
 
-
-
-
-
----
-
 ## 🛠️ Tech Stack
 - **Language:** Python 🐍
 - **Libraries:** Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib
