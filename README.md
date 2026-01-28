@@ -44,3 +44,23 @@ In medical diagnostics, **Recall** is often more important than Accuracy. This p
  [ 3 29]] <- False Negatives | True Positives
 
 
+
+
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python 🐍
+- **Libraries:** Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib
+- **Tooling:** Jupyter Notebook
+
+## 📂 Repository Structure
+- `Logistic_Regression.ipynb`: Full implementation from EDA to Evaluation.
+- `heart.csv`: Dataset containing medical records for heart disease prediction.
+- `README.md`: Project documentation and results.
+
+---
+
+## 🔗 Connect with me
+Let's discuss Data Science and Machine Learning!
+- **LinkedIn:** [Priyanshu Pandey](https://www.linkedin.com/in/priyanshu-pandey-data/)
